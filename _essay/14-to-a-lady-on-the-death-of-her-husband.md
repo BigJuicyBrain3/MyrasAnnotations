@@ -6,108 +6,54 @@ byline: Myra
 ## Critical Introduction to "To A Lady On The Death Of Her Husband"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
 
-Nor youth, nor science, not the ties of love,
-Nor ought on earth thy flinty heart can move.
-The friend, the spouse from his dire dart to save,
-In vain we ask the sovereign of the grave.
-Fair mourner, there see thy lov’d Leonard laid,
-And o’er him spread the deep impervious shade;
-Clos’d are his eyes, and heavy fetters keep
-His senses bound in never-waking sleep,
-Till time shall cease, till many a starry world
-Shall fall from heav’n, in dire confusion hurl’d,
-Till nature in her final wreck shall lie,
-And her last groan shall rend the azure sky:
-Not, not till then his active soul shall claim
-His body, a divine immortal frame.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But see the softly-stealing tears apace
-Pursue each other down the mourner’s face;
-But cease thy tears, bid ev’ry sigh depart,
-And cast the load of anguish from thine heart:
-From the cold shell of his great soul arise,
-And look beyond, thou native of the skies;
-There fix thy view, where fleeter than the windThy Leonard mounts, and leaves the earth behind.Thyself prepare to pass the vale of nightTo join for ever on the hills of light:To thine embrace this joyful spirit movesTo thee, the partner of his earthly loves;He welcomes thee to pleasures more refin’d,And better suited to th’ immortal mind.
-
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
 ---
 ## To A Lady On The Death Of Her Husband.
-MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GRIM monarch! see, depriv’d of vital breath,
-<br>A young physician in the dust of death:
-<br>Dost thou go on incessant to destroy,
-<br>Our griefs to double, and lay waste our joy?
-<br>Enough thou never yet wast known to say,
-<br>Though millions die, the vassals of thy sway:
-<br>Though millions die, the vassals of thy sway:
-<br>Though millions die, the vassals of thy sway:
-<br>Though millions die, the vassals of thy sway:
-<br>Though millions die, the vassals of thy sway:
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GRIM monarch! see, depriv’d of vital breath,
+<br>A young phyfician in the duft of death:
+<br>Doft thou go on inceffant to deftroy,
+<br>Our griefs to double, and lay wafte our joy?
+<br> _Enough_ thou never yet waft known to fay,
+<br>Though millions die, the vaffals of thy fway:
+<br>Nor youth, nor fcience, not the ties of love,
+<br>Nor aught on earth thy flinty heart can move.
+<br>The friend, the fpoufe from his dire dart to fave,
+<br>In vain we afk the fovereign of the grave.
+<br>Fair mourner, there fee thy lov’d _Leonard_ laid,
+<br>And o’er him fpread the deep impervious fhade;
+<br>Clos’d are his eyes, and heavy fetters keep
+<br>His fenfes bound in never-waking fleep,
+<br>Till time fhall ceafe, till many a ftarry world
+<br>Shall fall from heav’n, in dire confufion hurl’d,
+<br>Till nature in her final wreck fhall lie,
+<br>And her laft groan shall rend the azure sky:
+<br>Not, not till then his active soul fhall claim
+<br>His body, a divine immortal frame.
 
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But fee the foftly-ftealing tears apace
+<br>Purfue each other down the mourner’s face;
+<br>But ceafe thy tears, bid ev’ry figh depart,
+<br>And caft the load of anguifh from thine heart:
+<br>From the cold fhell of his great foul arife,
+<br>And look beyond, thou native of the fkies;
+<br>There fix thy view, where fleeter than the wind
+<br>Thy _Leonard_ mounts, and leaves the earth behind.
+<br>Thyself prepare to pass the vale of night
+<br>To join for ever on the hills of light:
+<br>To thine embrace this joyful fpirit moves
+<br>To thee, the partner of his earthly loves;
+<br>He welcomes thee to pleafures more refin’d,
+<br>And better fuited to th’ immortal mind.
 
-
-
-<br>While Homer paints, lo! circumfus’d in air,
-<br>Celestial Gods in mortal forms appear;
-<br>Swift as they move hear each recess rebound,
-<br>Heav’n quakes, earth trembles, and the shores resound.
-<br>Great Sire of verse, before my mortal eyes,
-<br>The lightnings blaze across the vaulted skies,
-<br>And, as the thunder shakes the heav’nly plains,
-<br>A deep felt horror thrills through all my veins.
-<br>When gentler strains demand thy graceful song,
-<br>The length’ning line moves languishing along.
-<br>When great Patroclus courts Achilles’ aid,
-<br>The grateful tribute of my tears is paid;
-<br>Prone on the shore he feels the pangs of love,
-<br>And stern Pelides tend’rest passions move.
-
-<br>Great Maro’s strain in heav’nly numbers flows,
-<br>The Nine inspire, and all the bosom glows.
-<br>O could I rival thine and Virgil’s page,
-<br>Or claim the Muses with the Mantuan Sage;
-<br>Soon the same beauties should my mind adorn,
-<br>And the same ardors in my soul should burn:
-<br>Then should my song in bolder notes arise,
-<br>And all my numbers pleasingly surprise;
-<br>But here I sit, and mourn a grov’ling mind,
-<br>That fain would mount, and ride upon the wind.
-
-<br>Not you, my friend, these plaintive strains become,
-<br>Not you, whose bosom is the Muses home;
-<br>When they from tow’ring Helicon retire,
-<br>They fan in you the bright immortal fire,
-<br>But I less happy, cannot raise the song,
-<br>The fault’ring music dies upon my tongue.
-
-<br>The happier Terence {% include essay/feature/aside.html
-   text="Note from original printing: He was an African by birth." %} all the choir inspir’d,
-<br>His soul replenish’d, and his bosom fir’d;
-<br>But say, ye Muses, why this partial grace,
-<br>To one alone of Afric’s sable race;
-<br>From age to age transmitting thus his name
-<br>With the finest glory in the rolls of fame?
-
-<br>Thy virtues, great Maecenas! shall be sung
-<br>In praise of him, from whom those virtues sprung:
-<br>While blooming wreaths around thy temples spread,
-<br>I’ll snatch a laurel from thine honour’d head,
-<br>While you indulgent smile upon the deed.
-
-<br>As long as Thames in streams majestic flows,
-<br>Or Naiads in their oozy beds repose
-<br>While Phoebus reigns above the starry train
-<br>While bright Aurora purples o’er the main,
-<br>So long, great Sir, the muse thy praise shall sing,
-<br>So long thy praise shal’ make Parnassus ring:
-<br>Then grant, Maecenas, thy paternal rays,
-<br>Hear me propitious, and defend my lays.
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_28;pwp_29" %}
 
 ## Contextual Accompaniment to "To Maecenas"
 This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
+
+MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
+
 
 ---
