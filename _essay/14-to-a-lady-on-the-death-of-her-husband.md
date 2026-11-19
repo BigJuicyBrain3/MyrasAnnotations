@@ -3,23 +3,50 @@ title: To A Lady On The Death Of Her Husband.
 order: 15
 byline: Myra
 ---
-## Critical Introduction to "To Maecenas"
+## Critical Introduction to "To A Lady On The Death Of Her Husband"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
 
-To A Lady On The Death Of Her Husband.
+Nor youth, nor science, not the ties of love,
+Nor ought on earth thy flinty heart can move.
+The friend, the spouse from his dire dart to save,
+In vain we ask the sovereign of the grave.
+Fair mourner, there see thy lov’d Leonard laid,
+And o’er him spread the deep impervious shade;
+Clos’d are his eyes, and heavy fetters keep
+His senses bound in never-waking sleep,
+Till time shall cease, till many a starry world
+Shall fall from heav’n, in dire confusion hurl’d,
+Till nature in her final wreck shall lie,
+And her last groan shall rend the azure sky:
+Not, not till then his active soul shall claim
+His body, a divine immortal frame.
 
-GRIM monarch! see, depriv’d of vital breath,A young physician in the dust of death:Dost thou go on incessant to destroy,Our griefs to double, and lay waste our joy?Enough thou never yet wast known to say,Though millions die, the vassals of thy sway:Nor youth, nor science, not the ties of love,Nor ought on earth thy flinty heart can move.The friend, the spouse from his dire dart to save,In vain we ask the sovereign of the grave.Fair mourner, there see thy lov’d Leonard laid,And o’er him spread the deep impervious shade.Clos’d are his eyes, and heavy fetters keepHis senses bound in never-waking sleep,Till time shall cease, till many a starry worldShall fall from heav’n, in dire confusion hurl’dTill nature in her final wreck shall lie,And her last groan shall rend the azure sky:Not, not till then his active soul shall claimHis body, a divine immortal frame.But see the softly-stealing tears apacePursue each other down the mourner’s face;But cease thy tears, bid ev’ry sigh depart,And cast the load of anguish from thine heart:From the cold shell of his great soul arise,And look beyond, thou native of the skies;There fix thy view, where fleeter than the windThy Leonard mounts, and leaves the earth behind.Thyself prepare to pass the vale of nightTo join for ever on the hills of light:To thine embrace this joyful spirit movesTo thee, the partner of his earthly loves;He welcomes thee to pleasures more refin’d,And better suited to th’ immortal mind.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But see the softly-stealing tears apace
+Pursue each other down the mourner’s face;
+But cease thy tears, bid ev’ry sigh depart,
+And cast the load of anguish from thine heart:
+From the cold shell of his great soul arise,
+And look beyond, thou native of the skies;
+There fix thy view, where fleeter than the windThy Leonard mounts, and leaves the earth behind.Thyself prepare to pass the vale of nightTo join for ever on the hills of light:To thine embrace this joyful spirit movesTo thee, the partner of his earthly loves;He welcomes thee to pleasures more refin’d,And better suited to th’ immortal mind.
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
 ---
-## To MAECENAS.
+## To A Lady On The Death Of Her Husband.
 MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
-<br>Read o’er what poets sung, and shepherds play’d.
-<br>What felt those poets but you feel the same?
-<br>Does not your soul possess the sacred flame?
-<br>Their noble strains your equal genius shares
-<br>In softer language, and diviner airs.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GRIM monarch! see, depriv’d of vital breath,
+<br>A young physician in the dust of death:
+<br>Dost thou go on incessant to destroy,
+<br>Our griefs to double, and lay waste our joy?
+<br>Enough thou never yet wast known to say,
+<br>Though millions die, the vassals of thy sway:
+<br>Though millions die, the vassals of thy sway:
+<br>Though millions die, the vassals of thy sway:
+<br>Though millions die, the vassals of thy sway:
+<br>Though millions die, the vassals of thy sway:
+
+
+
 
 <br>While Homer paints, lo! circumfus’d in air,
 <br>Celestial Gods in mortal forms appear;
@@ -78,7 +105,7 @@ MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html tex
 <br>Hear me propitious, and defend my lays.
 
 {% include essay/feature/image-gallery.html
-   objectid="pwp_08;pwp_09;pwp_10;pwp_11" %}
+   objectid="pwp_28;pwp_29" %}
 
 ## Contextual Accompaniment to "To Maecenas"
 This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
