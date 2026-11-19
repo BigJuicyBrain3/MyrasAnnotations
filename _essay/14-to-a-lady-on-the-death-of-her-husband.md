@@ -5,9 +5,6 @@ byline: Myra
 ---
 ## Critical Introduction to "To A Lady On The Death Of Her Husband"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
-
-{% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
 ---
 ## To A Lady On The Death Of Her Husband.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GRIM monarch! see, depriv’d of vital breath,
@@ -45,11 +42,9 @@ This is the critical introduction. Your critical introduction should be construc
 <br>To thee, the partner of his earthly loves;
 <br>He welcomes thee to pleafures more refin’d,
 <br>And better fuited to th’ immortal mind.
-
-
 {% include essay/feature/image-gallery.html
    objectid="pwp_28;pwp_29" %}
-
+---
 ## Contextual Accompaniment to "To Maecenas"
 This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
 
