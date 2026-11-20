@@ -8,7 +8,7 @@ This is the critical introduction. Your critical introduction should be construc
 ---
 ## To A Lady On The Death Of Her Husband.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GRIM monarch! see, depriv’d of vital breath,
-<br>A young phyfician in the duft of death:
+<br>A young phyſician in the duſt of death:
 <br>Doſt thou go on inceſſant to deſtroy,
 <br>Our griefs to double, and lay waſte our joy?
 <br> _Enough_ thou never yet waſt known to ſay,
