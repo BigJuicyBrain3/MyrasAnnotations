@@ -8,7 +8,7 @@ byline: Thomas
 <pre>
 I.
 
-ADIEU, New-England’s smiling meads, {% include essay/feature/aside.html text="Here is a demo note." %}
+ADIEU, New-England’s smiling meads,{% include essay/feature/aside.html text="Here is Gucci Morty."%}
       Adieu, the flow’ry plain:
   I leave thine op’ning charms, O spring,
       And tempt the roaring main.
