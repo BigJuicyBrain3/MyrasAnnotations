@@ -56,4 +56,40 @@ There is not much known about Peter's life before coming to America and she rare
 The widow that this poem was dedicated to, Thankful Hubbard Leonard, was a close family friend of the Wheatley family, and she was also the daughter of Thomas Hubbard. Thomas Hubbard was a prominent and wealthy individual in the community. He was a successful merchant and the treasurer of Harvard College (Brooks, 11). He was also a neighbour of the Wheatley family. It was because of this status that Thomas Hubbard was able to be one of the eighteen individuals that signed off on the attestation in Philis Wheatley Peters book Poems on Various Subjects, Religious and Moral in October of 1773 verifying that Peters had written the poetry herself. He was supportive of the Peters work and the Wheatley family. <link>
 
 Dr. Thomas Leonard had passed away in 1771 and just a year later Thankfull Hubbard Leonard also passed away in 1772. On her passing, Peters also wrote an elegy in her honour addressed to her father Thomas Hubbard. The poem is also in Poems on Various Subjects, Religious and Moral the same collection as this poem. The poem is titled “To the Honourable T. H. Esq; on the Death of His Daughter”. Similar to this poem, it is a clear example of occasional poetry and aims to provide comfort to her father, just as she had provided to Thankfull Leonard just a year prior. In the poem she specifically mentions how Thankfull has returned to Leornard that same one she “ late wish’d that Leonard might return.” In the poem she uses similar types of religious imagery and describes a heavenly kingdom and speaks to the ties of love that are exalted in the after life.
+
+## To the Honourable T. H. Esq; on the Death of his Daughter.
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WHILE deep you mourn beneath the cypress-shade
+The hand of Death, and your dear daughter laid
+In dust, whose absence gives your tears to flow,
+And racks your bosom with incessant woe,
+Let _Recollection_ take a tender part,
+Assuage the raging tourtures of your heart,
+Still the wild tempest of tumultuous grief,
+And pour the heav'nly nectar of relief:
+Suspend the sigh, dear Sir, and check the groan,
+Divinely bright your daughter's _Virtues_ shone:
+How free from scornful pride her gentle mind,
+Which ne'er its aid to indigence declin'd!
+Expanding free, it sought the means to prove
+Unfailing charity, unbounded love!
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She unreluctant flies to see no more
+Her dear-lov'd parents on earth's dusky shore:
+Impatient heav'n's resplendent goal to gain, She with swift progress cuts the azure plain, Where grief subsides, where changes are no more, And life's tumultuous billows cease to roar;
+She leaves her earthly mansion for the skies, Where new creations feast her wond'ring eyes.
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To heav'n's high mandate chearfully resign'd
+She mounts, and leaves the rolling globe behind;
+She, who late wish'd that Leonard might return, Has ceas'd to languish, and forgot to mourn;
+To the same high empyreal mansions come, She joins her spouse, and smiles upon the tomb:
+And thus I hear her from the realms above:
+"Lo! this the kingdom of celestial love!
+Could ye, fond parents, see our present bliss, How soon would you each sigh, each fear dismiss?
+Amidst unutter'd pleasures whilst I play
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In the fair sunshine of celestial day, As far as grief affects an happy soul So far doth grief my better mind controul, To see on earth my aged parents mourn, And secret wish for T—1 to return:
+Let brighter scenes your ev'ning-hours employ:
+Converse with heav'n, and taste the promis'd joy."
+
 ---
