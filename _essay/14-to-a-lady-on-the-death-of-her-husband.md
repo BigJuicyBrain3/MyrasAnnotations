@@ -10,8 +10,7 @@ byline: Myra
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The imagery used in this poem highlights how Peters, herself, was able to find comfort through her struggles and grievances because of her faith. Peters had gone through a lot of pain and heartbreak in her life after being stolen from her family and transported to America. There is no evidence to suggest that Peters had ever seen her family again, so similar to Thankfull, Peters had to process the loss of people important in her life. Which is why in the poem she acknowledges the harsh reality of grief before pivoting to offer spiritual reassurance that the separation is not forever death is only a temporary state and true reassurance and comfort comes from having faith
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Throughout the poem, Peters displays a deep understanding of loss and which is why she is able to establish a sense of empathy with the reader. She seems to draw on her own experiences in life, after having been kidnapped from her family and sold into slavery around eight years old, to illustrate how faith can be used to work through grievances and understand loss (Caretta, 176).
-There is not much known about Peter's life before coming to America and she rarely wrote about her own experiences with slavery outright, because that was not something the majority of her readers would resonate with since they were mainly middle class white individuals. However, the theme of loss and death, as she mentions in this poem, is something that everyone regardless of race may have experienced, which is why she was able to communicate her experiences and understanding of the tragedies that took place throughout her life and maintain mainstream appeal. 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Throughout the poem, Peters displays a deep understanding of loss and which is why she is able to establish a sense of empathy with the reader. She seems to draw on her own experiences in life, after having been kidnapped from her family and sold into slavery around eight years old, to illustrate how faith can be used to work through grievances and understand loss (Caretta, 176). There is not much known about Peter's life before coming to America and she rarely wrote about her own experiences with slavery outright, because that was not something the majority of her readers would resonate with since they were mainly middle class white individuals. However, the theme of loss and death, as she mentions in this poem, is something that everyone regardless of race may have experienced, which is why she was able to communicate her experiences and understanding of the tragedies that took place throughout her life and maintain mainstream appeal. 
 
 ## To A Lady On The Death Of Her Husband.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GRIM monarch! see, depriv’d of vital breath,
@@ -60,47 +59,47 @@ Dr. Thomas Leonard had passed away in 1771 and just a year later his wife Thankf
 ## To the Honourable T. H. Esq; on the Death of his Daughter.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WHILE deep you mourn beneath the cypress-shade
-The hand of Death, and your dear daughter laid
-In dust, whose absence gives your tears to flow,
-And racks your bosom with incessant woe,
-Let _Recollection_ take a tender part,
-Assuage the raging tourtures of your heart,
-Still the wild tempest of tumultuous grief,
-And pour the heav'nly nectar of relief:
-Suspend the sigh, dear Sir, and check the groan,
-Divinely bright your daughter's _Virtues_ shone:
-How free from scornful pride her gentle mind,
-Which ne'er its aid to indigence declin'd!
-Expanding free, it sought the means to prove
-Unfailing charity, unbounded love!
+<br>The hand of Death, and your dear daughter laid
+<br>In dust, whose absence gives your tears to flow,
+<br>And racks your bosom with incessant woe,
+<br>Let _Recollection_ take a tender part,
+<br>Assuage the raging tourtures of your heart,
+<br>Still the wild tempest of tumultuous grief,
+<br>And pour the heav'nly nectar of relief:
+<br>Suspend the sigh, dear Sir, and check the groan,
+<br>Divinely bright your daughter's _Virtues_ shone:
+<br>How free from scornful pride her gentle mind,
+<br>Which ne'er its aid to indigence declin'd!
+<br>Expanding free, it sought the means to prove
+<br>Unfailing charity, unbounded love!
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She unreluctant flies to see no more
-Her dear-lov'd parents on earth's dusky shore:
-Impatient heav'n's resplendent goal to gain,
-She with swift progress cuts the azure plain,
-Where grief subsides, where changes are no more,
-And life's tumultuous billows cease to roar;
-She leaves her earthly mansion for the skies,
-Where new creations feast her wond'ring eyes.
+<br>Her dear-lov'd parents on earth's dusky shore:
+<br>Impatient heav'n's resplendent goal to gain,
+<br>She with swift progress cuts the azure plain,
+<br>Where grief subsides, where changes are no more,
+<br>And life's tumultuous billows cease to roar;
+<br>She leaves her earthly mansion for the skies,
+<br>Where new creations feast her wond'ring eyes.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To heav'n's high mandate chearfully resign'd
-She mounts, and leaves the rolling globe behind;
-She, who late wish'd that Leonard might return,
-Has ceas'd to languish, and forgot to mourn;
-To the same high empyreal mansions come, 
-She joins her spouse, and smiles upon the tomb:
-And thus I hear her from the realms above:
-Lo! this the kingdom of celestial love!
-Could ye, fond parents, see our present bliss,
-How soon would you each sigh, each fear dismiss?
-Amidst unutter'd pleasures whilst I play
+<br>She mounts, and leaves the rolling globe behind;
+<br>She, who late wish'd that Leonard might return,
+<br>Has ceas'd to languish, and forgot to mourn;
+<br>To the same high empyreal mansions come, 
+<br>She joins her spouse, and smiles upon the tomb:
+<br>And thus I hear her from the realms above:
+<br>Lo! this the kingdom of celestial love!
+<br>Could ye, fond parents, see our present bliss,
+<br>How soon would you each sigh, each fear dismiss?
+<br>Amidst unutter'd pleasures whilst I play
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In the fair sunshine of celestial day,
-As far as grief affects an happy soul
-So far doth grief my better mind controul,
-To see on earth my aged parents mourn,
-And secret wish for T—1 to return:
-Let brighter scenes your ev'ning-hours employ:
-Converse with heav'n, and taste the promis'd joy."
+<br>As far as grief affects an happy soul
+<br>So far doth grief my better mind controul,
+<br>To see on earth my aged parents mourn,
+<br>And secret wish for T—1 to return:
+<br>Let brighter scenes your ev'ning-hours employ:
+<br>Converse with heav'n, and taste the promis'd joy."
 
 ---
